@@ -30,7 +30,7 @@ cd monad-testnetbot
 2. **Edit the `.env.`** file
    Replace your_evm_private_key with your actual EVM wallet private key. It should look like this:
    ```
-   nano ,env
+   nano .env
    ```
    - Format:
    ```bash

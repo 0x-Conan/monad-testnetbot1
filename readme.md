@@ -15,9 +15,9 @@ cd monad-testnetbot
 
 2. Install the required dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 ## Configuration
 
@@ -29,13 +29,13 @@ cd monad-testnetbot
 
 2. **Edit the `.env.`** file
    Replace your_evm_private_key with your actual EVM wallet private key. It should look like this:
-   ```
-   nano .env
-   ```
+```
+nano .env
+```
    - Format:
-   ```bash
-   PRIVATE_KEY=0x1234...
-   ```
+```bash
+PRIVATE_KEY=0x1234...
+```
 ## (Optional) Running via screen:
 ```
 screen -S monad

@@ -9,7 +9,7 @@ This is a JavaScript bot script designed to interact with the Monad testnet.
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/klvndrgn/monad-testnetbot.git
+git clone https://github.com/SKaaalper/monad-testnetbot.git
 cd monad-testnetbot
 ```
 
@@ -29,9 +29,17 @@ cd monad-testnetbot
 
 2. **Edit the `.env.`** file
    Replace your_evm_private_key with your actual EVM wallet private key. It should look like this:
+   ```
+   nano ,env
+   ```
+   - Format:
    ```bash
    PRIVATE_KEY=0x1234...
    ```
+## (Optional) Running via screen:
+```
+screen -S monad
+```
 
 ## Usage
 

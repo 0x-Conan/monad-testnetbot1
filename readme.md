@@ -9,8 +9,8 @@ This is a JavaScript bot script designed to interact with the Monad testnet.
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/SKaaalper/monad-testnetbot.git
-cd monad-testnetbot
+git clone https://github.com/0x-Conan/monad-testnetbot1.git
+cd monad-testnetbot1
 ```
 
 2. Install the required dependencies:
